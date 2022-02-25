@@ -72,12 +72,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-
-  border: 1px solid red;
 }
 
 .sub-main {
-  border: 1px solid red;
   display: flex;
   flex-direction: column;
   margin-top: 30px;
