@@ -67,18 +67,22 @@ body {
   background-size: 110px 200px;
   background-repeat: repeat-x;
   background-size: 15px 30px;
-  height: 90vh;
   border: 10px solid white;
   border-radius: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
+
+  border: 1px solid red;
 }
 
-.image-soju {
+.sub-main {
+  border: 1px solid red;
   display: flex;
   flex-direction: column;
+  margin-top: 30px;
 }
+
 img {
   width: 100%;
 }
