@@ -56,9 +56,9 @@ function play(){
 
 
 
-    chances--
+  
     history.push(userValue);
-    chanceCount.textContent = `남은기회: ${chances}회`;
+    
 
   
     
@@ -78,7 +78,18 @@ function play(){
 
         resultArea.textContent = "맞췄습니다."
         playButton.disabled = true;
+
         
+        
+
+    }
+
+    chances--
+    chanceCount.textContent = `남은기회: ${chances}회`;
+
+    if(resultArea.textContent=="맞췄습니다."){
+
+        return;
 
     }
 

@@ -53,8 +53,8 @@ body {
       #b13e12 90%,
       #e27412 100%
     );
-  background-size: 470px 470px, 970px 970px, 410px 410px, 610px 610px,
-    530px 530px, 730px 730px, 100% 100%;
+  min-height: 100vh;
+  background-size: cover;
   background-color: #840b2a;
 }
 
