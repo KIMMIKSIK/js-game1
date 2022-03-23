@@ -19,6 +19,11 @@
 10. 추가기능 : 유저가 이미 입력한 번호를 입력하면 이미 입력했던 번호란 것을 
     알려주고 기회는 깍지 않는다.(이미 입력한 번호라는걸 list를 통해 입력한 번호를 저장해서 비교했다.)
 
+___
+
+**skill: html,css,vanilla javascript**
+
+참조: https://msikgame1.netlify.app/
 
 
 
